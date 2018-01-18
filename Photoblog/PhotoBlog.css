@@ -1,0 +1,17 @@
+h2{
+	border-bottom: 2px solid grey;
+	width:30%;
+	margin-left: 20px;
+	padding-bottom: 10px;
+	font-family: 'Roboto Condensed ', sans-serif;
+	font-weight: 700;
+	font-size: 30px;
+
+}
+
+img{ 
+	width: 30%;
+	float:left;
+	margin: 1.66%;
+}
+
