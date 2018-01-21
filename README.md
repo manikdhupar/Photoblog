@@ -1,2 +1,2 @@
 # Photoblog
-A simple HTML/CSS PhotoBlog. :)
+A simple HTML/CSS PhotoBlog :)
